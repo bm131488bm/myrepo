@@ -1,11 +1,11 @@
-Origin: bm131488bm的个人源
-Label: bm131488bm
+Origin: jackie099的cydia源
+Label: jackie099
 Suite: stable
 Version: 1.0
-Codename: bm131488bm
+Codename: jackie099
 Architectures: iphoneos-arm
 Components: main
-Description: bm131488bm的常用软件源
+Description: 099的常用软件源
 MD5Sum:
  dc34ace35c17d8e69feaaff49882ca91 3969 Packages
    Packages.bz2
