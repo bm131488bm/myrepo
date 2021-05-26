@@ -7,7 +7,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: bm131488bm的常用软件源
 MD5Sum:
- dc34ace35c17d8e69feaaff49882ca91 3969 Packages
+ f17d6f71f1379238bcc62f2f1a28c7ef 4310 Packages
    Packages.bz2
- 719d38b3be7bed0feeefe6af226179c3 1061 Packages.gz
+ 1d347f6d386a6489d4a957312a3c9da8 1152 Packages.gz
 
