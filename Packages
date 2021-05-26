@@ -30,3 +30,115 @@ Icon: https://repo.litten.love/depictions/dry/assets/icon.png
 Version: 1.0-1192+debug
 Installed-Size: 9376
 
+Package: love.litten.ember
+Name: Ember
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/love.litten.ember_1.0-2debug_iphoneos-arm.deb
+Size: 4302
+MD5sum: 42a1dcdde865935d2c2d5828dafd041e
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0-2+debug
+Installed-Size: 168
+
+Package: love.litten.hate
+Name: HATE
+Depends: mobilesubstrate
+Filename: debs/love.litten.hate_1.0_iphoneos-arm.deb
+Size: 4706
+MD5sum: 9c71871bcf82344e770f68b55c2434ab
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0
+Installed-Size: 168
+
+Package: love.litten.letter
+Name: Letter
+Depends: mobilesubstrate, love.litten.libkitten
+Filename: debs/love.litten.letter_1.0_iphoneos-arm.deb
+Size: 4894
+MD5sum: a41f52cc4b7c321c8411a77304f1006e
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0
+Installed-Size: 168
+
+Package: love.litten.nacht
+Name: Nacht
+Depends: mobilesubstrate
+Filename: debs/love.litten.nacht_1.0_iphoneos-arm.deb
+Size: 3504
+MD5sum: 14b6d8e41daa7d237da2399605d1b25b
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0
+Installed-Size: 168
+
+Package: love.litten.neverland
+Name: Neverland
+Depends: mobilesubstrate
+Filename: debs/love.litten.neverland_1.0_iphoneos-arm.deb
+Size: 4148
+MD5sum: 9b45968f2562eda885e811f78a43f6ce
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0
+Installed-Size: 168
+
+Package: love.litten.nolowpoweralert
+Name: NoLowPowerAlert
+Depends: mobilesubstrate
+Filename: debs/love.litten.nolowpoweralert_1.0-1debug_iphoneos-arm.deb
+Size: 3390
+MD5sum: 88ce672e9d1a19935cf79e3b09fafbf4
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 168
+
+Package: love.litten.proudlock
+Name: ProudLock
+Depends: mobilesubstrate
+Filename: debs/love.litten.proudlock_1.0-1debug_iphoneos-arm.deb
+Size: 3364
+MD5sum: 4c9845b86b65c4739060567ca244cb6d
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alexandra
+Author: alexandra
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 168
+
+Package: love.litten.stardust
+Name: Stardust
+Depends: mobilesubstrate
+Filename: debs/love.litten.stardust_1.0-1debug_iphoneos-arm.deb
+Size: 10476
+MD5sum: 0467534a40f9bbbb6429634863ba9b04
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 176
+
