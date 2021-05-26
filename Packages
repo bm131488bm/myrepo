@@ -1,0 +1,32 @@
+Package: com.spark.snowboard.ui
+Name: SnowBoard UI Extension
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: debs/com.spark.snowboard.ui_1.0.64Beta3_iphoneos-arm.deb
+Size: 70610
+MD5sum: e2aa334da58a51450c5cc9cdb743a716
+Architecture: iphoneos-arm
+Description: UI Extension for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Version: 1.0.64~Beta3
+Installed-Size: 476
+
+Package: love.litten.diary
+Name: Diary 📖
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Filename: debs/love.litten.diary_1.0-1192debug_iphoneos-arm.deb
+Size: 4136612
+MD5sum: c774a3991e2f1b52f5ac8273525ff948
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, love.litten.heartlines
+Architecture: iphoneos-arm
+Description: Dear diary..
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Depiction: https://repo.litten.love/depictions/dry/index.html
+SileoDepiction: https://repo.litten.love/depictions/dry/dry.json
+Icon: https://repo.litten.love/depictions/dry/assets/icon.png
+Version: 1.0-1192+debug
+Installed-Size: 9376
+
